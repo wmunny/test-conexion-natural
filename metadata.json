@@ -1,0 +1,6 @@
+{
+  "name": "Test de Conexión Natural",
+  "description": "Herramienta interactiva para calcular el Índice de Conexión Natural (ICN) en la oficina y optimizar el bienestar biofílico corporativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
